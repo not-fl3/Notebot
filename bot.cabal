@@ -1,0 +1,15 @@
+Name:                bot
+Version:             0.0
+Description:         Mega jabber note-bot
+License:             GPL
+License-file:        LICENSE
+Author:              FL3
+Maintainer:          fl3@untergrund.net
+Build-Type:          Simple
+Cabal-Version:       >=1.2
+Executable bot
+  Main-is:           BotMain.hs
+  Build-Depends:     base, time, XMPP, HDBC, HDBC-sqlite3, old-time,unix,network
+  Other-Modules:     Types, DB, Notifiers, Calc 
+
+

@@ -1,0 +1,109 @@
+pristine:0000001961-af0a9fa4e22b0e9ebca18293f1b61c9500cdaee40d03be02ab191016e966def1
+[Initial record
+henoch@dtek.chalmers.se**20070306221819] 
+hash: 0000060926-e25e9ed144c84922c4f35c66f1b61a71ab6c8c18897dc327f6df4b3598e3c917
+[Rename XMPP.hs to XMPPMonad.hs
+henoch@dtek.chalmers.se**20070327212340] 
+hash: 0000000106-cc9dfb1350c2f8cd3c04d67cd5a98411d6076f7c4c1703ca8c4ccf47b4c78e6b
+[Complete XMPP -> XMPPMonad change
+henoch@dtek.chalmers.se**20070327213234] 
+hash: 0000001030-3e36937e65790bb5807a7d19d2526e87c8c0e3d09a4ea8447b2fc691a322ec78
+[Move almost everything to the XMPP module
+henoch@dtek.chalmers.se**20070327215157] 
+hash: 0000000850-c1f1ac5b3990c708974ce0c42fe31be5473850dcc968312ebe2b5428062dcf46
+[Start cabalizing
+henoch@dtek.chalmers.se**20070327224631] 
+hash: 0000000805-770b68212249058844b789eeda2e86215f4154668c259a2d5846cab491649578
+[Add Other-modules declarations
+henoch@dtek.chalmers.se**20070327225552] 
+hash: 0000000231-489e9e3abfd6d59a8d184e0190fbf11d21648d7b0784b6728d70f042925a5946
+[Document XMLParse
+henoch@dtek.chalmers.se**20070327232205] 
+hash: 0000000786-dc1b44695f9fe1754f1400a7a473c0dad42129b2f5e77b45717bc701c75f42ab
+[Add documentation headings; prune XMLParse exports
+henoch@dtek.chalmers.se**20070327232238] 
+hash: 0000000764-82dcec605dc501ae90494ea29a86dc33f4d37a603b72ca4fff7037bc201e1575
+[iqXmlns accepts only IQ stanzas
+henoch@dtek.chalmers.se**20070327233623] 
+hash: 0000000210-6d6c2ea21db952ea3765e191d2b3ac2360ef7cc2c13b9800de3aaea69f2406d7
+[Document Stanzas
+henoch@dtek.chalmers.se**20070327234049] 
+hash: 0000003729-bc7d904a96c749ab9dfb80016946bac752d119b7c07b0eb99387989a38735ffc
+[Document JID
+henoch@dtek.chalmers.se**20070327234450] 
+hash: 0000000384-55af0a3063c9f489325c556ea1a73be74bed54b8434bc8668e16b2c3ac161523
+[Add COPYING
+henoch@dtek.chalmers.se**20070330150848] 
+hash: 0000001570-1b934b36fc41f3123a422ae95c46be27348d826baf68d580b09579f81a492799
+[Include report.txt in tarball
+henoch@dtek.chalmers.se**20070330132450] 
+hash: 0000000132-0d1fc85288e5aa8950c39c745fdfc41db68a2b7d0de7f0296e881f439ca0bb16
+[Don't hardcode account and password for werewolf bot
+henoch@dtek.chalmers.se**20070330135809] 
+hash: 0000001395-0905f7ba3a34e37d9fbe8ed424ad829a59cf898e0b4644c960f097cdfdc0ebf4
+[Include werewolf text files
+henoch@dtek.chalmers.se**20070330151743] 
+hash: 0000000214-1bb8698f1d69ccdb30f8a0798a84cf9dc0f82a83ae50232a614f29d76425cdb9
+[Remove XMPPConnection constraint from the eyes of the user
+henoch@dtek.chalmers.se**20070406224607] 
+hash: 0000006214-352b4a4d70007193d411d035ac696ae38b334f98c8f0f5ce51979be529b17652
+[Fix polling behaviour
+henoch@dtek.chalmers.se**20070407003252] 
+hash: 0000000581-1246a294170d5d20638644b75cf91b5dc0a77fc40722e579a4a01652e0a19711
+[Print and ignore parser errors
+henoch@dtek.chalmers.se**20070407004732] 
+hash: 0000000638-82c8269a3b1f94557dec97318a9a63b45d4f0874ba8a96755e41b5af428df1f4
+[Remove superfluous reexport of XMPPConnection from XMPPMonad
+henoch@dtek.chalmers.se**20070407004749] 
+hash: 0000000259-3270e98f7323c2e17b935d7eaaa68eae110b8f132061e4a2c48e8dc310da3a14
+[Remove StanzaMangler
+henoch@dtek.chalmers.se**20070407005343] 
+hash: 0000000184-190146057a5f0b763f60363ecc2e881dd102597fce5164d7ff54c2513e624ca4
+[Document XMPPMonad
+henoch@dtek.chalmers.se**20070407010518] 
+hash: 0000001222-d8952a7353635875c604e8d56a0d4455361ea1b23ae9fb478e1b0f6b05c0e752
+[Document Auth
+henoch@dtek.chalmers.se**20070407011751] 
+hash: 0000000544-59b4426f7a4541a586ded1bc3dcf92cc8c0d669b49bb70c48f601bde4988a22f
+[Document TCPConnection and XMPPConnection
+henoch@dtek.chalmers.se**20070407012930] 
+hash: 0000000941-483811fd8f34f37db66a042bb4537922baa8db470933693ca82d28e458b895c7
+[Expose MUC module
+henoch@dtek.chalmers.se**20070407013122] 
+hash: 0000000141-0299023b0e603fb7c4c30cf31aeb678a0caed1c8435eb8f0d386d284a4b36a24
+[Document Translate
+henoch@dtek.chalmers.se**20070407213621] 
+hash: 0000000900-770aab6349cba4660a031cc12a8b6d3d45ea715972bdca1a5d0645a69fb1cc88
+[Start documenting MUC
+henoch@dtek.chalmers.se**20070407215003] 
+hash: 0000001782-1e1e32282d171b6f7efe9585cc02256b77c870791405efde0e91c70a387424eb
+[Delay deciding a stanza handler until previous stanzas have been handled
+henoch@dtek.chalmers.se**20070407220822] 
+hash: 0000001031-42c95d06f82aa496854931b3e7292da878084b35136acaf18ca620daa1b6354a
+[Remove unnecessary forall
+henoch@dtek.chalmers.se**20070407222244] 
+hash: 0000000190-77fc1cb4b2af63de7ba3d3d0f23b0a37babf5eff1f57797e2941d53373ddd980
+[Improve XMPPMonad documentation
+henoch@dtek.chalmers.se**20070407222302] 
+hash: 0000001274-3b5156d84fe0fbb739fd27bb75f2bea662194008ab914f5c69d56683b8489f74
+[Add introduction to documentation
+henoch@dtek.chalmers.se**20070407225648] 
+hash: 0000001377-5a1b64436837fd18c32be85b2a352cd2ed1085d305846f6406dbb4b26626eb20
+[Add note about XMLParse's uniqueness
+henoch@dtek.chalmers.se**20070407230001] 
+hash: 0000000304-970b408c0705f8c8237e60b47ec1928b12adf2aa18f1aae2715977c3cf941386
+[Update README
+henoch@dtek.chalmers.se**20070407230940] 
+hash: 0000000602-ac9a55c1a0110dfcb28d2a9aa177de84d95819cec39beb55b0198125162a7bf9
+[Mention werewolf bot in README
+henoch@dtek.chalmers.se**20070407231316] 
+hash: 0000000434-f9f332c66242cd8e1b04b2a03909013770a42555323f64aa1a35541282e2324a
+[Add license-file field to cabal file
+henoch@dtek.chalmers.se**20070330151956] 
+hash: 0000000125-a87f74975a717ee21fae5076064244c49c6d6bdb97b89e2d619f6ec5a1759d46
+[Include README in source tarball
+henoch@dtek.chalmers.se**20070407232812] 
+hash: 0000000274-965e64f2c346f11c53270f6f90e58b33c582ec1bbc6e260c63636233d8a0bbbb
+[Don't use MonadState
+henoch@dtek.chalmers.se**20070504214445] 
+hash: 0000000919-c41669468d03f0631a9b164284024685d3428b3fc4e0f20c2185d7e5be58889c
