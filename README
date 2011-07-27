@@ -1,0 +1,8 @@
+Usefull bot for storing notes and 
+notifications. 
+
+TODO
+- Migrate from hsxmpp and draugr.de to abber 
+server like ejabberd
+- Add tag or directory support for notes 
+- Add some web-interface for notes access  
